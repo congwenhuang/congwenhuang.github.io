@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>love-story</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2020-04-16T18:00:47.892Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>臭文</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开启我们的小屋</title>
+    <link href="/2020/04/01/index/"/>
+    <id>/2020/04/01/index/</id>
+    <published>2020-04-01T14:16:01.000Z</published>
+    <updated>2020-04-16T18:00:47.892Z</updated>
+    
+    <summary type="html">
+    
+      开启小屋的序言
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
